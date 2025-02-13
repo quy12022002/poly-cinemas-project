@@ -15,11 +15,3 @@ Poly Cinemas là một trang web đặt vé xem phim đa chi nhánh, cung cấp 
 ## Thiết Kế
 
 Dự án được thiết kế theo phong cách tối giản, giúp người dùng dễ dàng tương tác và trải nghiệm dịch vụ mà không bị phân tâm.
-
-## Cài Đặt
-
-### Yêu Cầu
-
-- Node.js
-- MongoDB
-- VNPay/MOMO API
