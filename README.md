@@ -1,6 +1,6 @@
 # Poly Cinemas
 
-Poly Cinemas là một trang web đặt vé xem phim đa chi nhánh, cung cấp trải nghiệm đặt chỗ và thanh toán tiện lợi cho người dùng. Dưới đây là các tính năng nổi bật của dự án:
+Poly Cinemas là một dự án đặt vé xem phim đa chi nhánh, cung cấp trải nghiệm đặt chỗ và thanh toán tiện lợi cho người dùng. Dưới đây là các tính năng nổi bật của dự án:
 
 ## Tính Năng
 
